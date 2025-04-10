@@ -49,3 +49,7 @@ Features
   Instant prediction results via REST API
 
   Interactive and responsive UI
+
+Screenshot:
+![image](https://github.com/user-attachments/assets/0bccf9a7-d6a4-449b-9d08-11cb32f122cf)
+
